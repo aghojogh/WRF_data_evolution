@@ -1,0 +1,10 @@
+MNIST rule-following experiment without PCA
+------------------------------------------
+X1: digits 0,1, shape=(600, 784)
+X2: digits 9,4, shape=(600, 784)
+X3: digits 6,7,8, shape=(900, 784)
+Generated kind: balanced_family_all_X
+Generated shape: (1350, 784)
+Target n: 1350
+Target d: 784
+Best PyTorch epoch: 199
