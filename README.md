@@ -3,6 +3,13 @@
 This is the code for the paper:
 - Aydin Ghojogh, Benyamin Ghojogh, "Data Evolution by Wittgenstein's Rule Following", arXiv, 2026.
 
+# Package Installation
+
+Install the packages in a conda environment: 
+```bash
+conda env create --file environment.yml
+```
+
 # An Example for Wittgenstein's Rule Following
 
 In Wittgenstein's Philosophical Investigations (§§185-190), Wittgenstein's discussion of rule following begins with examples involving the continuation of a numerical series . 
