@@ -1,7 +1,8 @@
 # WRF Data Evolution
 
 This is the code for the paper:
-- Aydin Ghojogh, Benyamin Ghojogh, "Data Evolution by Wittgenstein's Rule Following", arXiv, 2026.
+- Aydin Ghojogh, Benyamin Ghojogh, "Data Evolution by Wittgenstein's Rule Following", arXiv preprint arXiv:2606.22674, 2026.
+- Link to paper: https://arxiv.org/abs/2606.22674
 
 # Package Installation
 
